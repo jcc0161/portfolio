@@ -1,0 +1,112 @@
+#logo {
+    height: auto;
+    margin-left: 5px;
+    margin-top: -16px;
+    width: 192px;
+}
+
+.navbar-brand {
+    min-height: 65px;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}
+
+.navbar {
+    padding-top: 7px;
+    padding-right: 30px;
+    font-family: 'Quicksand';
+    font-size: 1.7;
+}
+
+body {
+    position: relative;
+    background-color: #F4F4F4;
+}
+
+.landing-text {
+    color: floralwhite;
+    font-family: 'Quicksand';
+    font-size: 300%;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 208px;
+    margin-top: 310px;
+    left: 8%;
+    top: 23%;
+    position: absolute;
+}
+
+#about {
+    margin-top: 45px;
+    padding-top: 30px;
+}
+
+.row.no-gutter {
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+}
+
+.row.no-gutter> [class^="col-"],
+.row.no-gutter> [class*=" col-"] {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.container-full {
+    width: 100%;
+    margin: 0 auto;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+
+
+.banner {
+    margin-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#banner-img {
+    display: block;
+    m
+}
+
+.services {
+    margin-top: 0px;
+}
+
+#banner-logo {
+    left: 36%;
+    top: 20%;
+    position: absolute;
+ 
+}
+
+.my-banner {
+    padding: 0px;
+    margin-top: 72px;
+    min-height: 890px;
+    width: auto;
+}
+
+
+        
+    
+        
+}
+
+
+
+.shit {
+    position: relative;
+    display: block;
+}
+
+.real-shit {
+    position
+}
